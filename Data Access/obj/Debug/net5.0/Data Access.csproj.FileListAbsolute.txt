@@ -1,0 +1,17 @@
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\bin\Debug\net5.0\Data Access.deps.json
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\bin\Debug\net5.0\Data Access.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\bin\Debug\net5.0\ref\Data Access.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\bin\Debug\net5.0\Data Access.pdb
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\bin\Debug\net5.0\Core.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\bin\Debug\net5.0\Entities.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\bin\Debug\net5.0\Entities.pdb
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\bin\Debug\net5.0\Core.pdb
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\obj\Debug\net5.0\Data Access.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\obj\Debug\net5.0\Data Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\obj\Debug\net5.0\Data Access.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\obj\Debug\net5.0\Data Access.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\obj\Debug\net5.0\Data Access.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\obj\Debug\net5.0\Data Access.csproj.CopyComplete
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\obj\Debug\net5.0\Data Access.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\obj\Debug\net5.0\ref\Data Access.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\Data Access\obj\Debug\net5.0\Data Access.pdb

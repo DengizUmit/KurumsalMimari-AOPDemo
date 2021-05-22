@@ -1,0 +1,26 @@
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.exe
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.deps.json
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.json
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.dev.json
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\ref\ConsoleUI.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.pdb
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\Business.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\Core.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\Data Access.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\Entities.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\Business.pdb
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\Core.pdb
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\Data Access.pdb
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\Entities.pdb
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CopyComplete
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\ÜmitDengiz\source\repos\Live - Demo\ConsoleUI\bin\Debug\net5.0\PostSharp.dll

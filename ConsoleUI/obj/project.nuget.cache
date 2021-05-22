@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSwpUFkmsL/X9Afje17prIa0rVYdF1Rv4ishknprLluXGYf1kIcRHt0LDsxr9k9GkGwGR762Thu3kq4Xv/Ue0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Live - Demo\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\postsharp\\6.9.5\\postsharp.6.9.5.nupkg.sha512",
+    "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\postsharp.redist\\6.9.5\\postsharp.redist.6.9.5.nupkg.sha512"
+  ],
+  "logs": []
+}

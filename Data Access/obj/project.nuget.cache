@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydBuVeGFf2NuP4PfMcVm6+l1A6Pjyt2yyg7Ku4kUCL/VRGQhQGlahGGpUmwN2JryqMFOQ7kIyXTaIxR6mdxDbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Live - Demo\\Data Access\\Data Access.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\postsharp\\6.9.5\\postsharp.6.9.5.nupkg.sha512",
+    "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\postsharp.redist\\6.9.5\\postsharp.redist.6.9.5.nupkg.sha512"
+  ],
+  "logs": []
+}

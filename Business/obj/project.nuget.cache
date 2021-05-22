@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NMljdhIiHmPhJnbZ1gDCNrsJkY6iLr9pGRDTWDNXNc0LYbxYk4BhIx7AC0QSOZqXLU89U7j4jfqwe7PIeXJTOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Live - Demo\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\postsharp\\6.9.5\\postsharp.6.9.5.nupkg.sha512",
+    "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\postsharp.redist\\6.9.5\\postsharp.redist.6.9.5.nupkg.sha512",
+    "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
